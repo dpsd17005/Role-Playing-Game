@@ -1,8 +1,8 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
+### First and Last Name:  Χριστίνα Αναστασοπούλου
+### University Registration Number: dpsd17005
+### GitHub Personal Profile:  
 ### Digital & Serious Games Personal Repository: xxx
 
 # Introduction
