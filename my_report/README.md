@@ -2,8 +2,8 @@
 
 ### First and Last Name:  Χριστίνα Αναστασοπούλου
 ### University Registration Number: dpsd17005
-### GitHub Personal Profile:  
-### Digital & Serious Games Personal Repository: xxx
+### GitHub Personal Profile: https://github.com/dpsd17005  
+### Digital & Serious Games Personal Repository:https://dpsd17005.github.io/Role-Playing-Game/  
 
 # Introduction
 
